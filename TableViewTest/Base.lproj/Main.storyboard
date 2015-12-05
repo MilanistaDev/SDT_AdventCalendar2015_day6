@@ -72,7 +72,7 @@
                                 </connections>
                             </tableView>
                         </subviews>
-                        <color key="backgroundColor" red="0.90196079019999997" green="0.90196079019999997" blue="0.98039215800000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="Kgr-7R-jj7" firstAttribute="top" secondItem="hbE-e8-RVI" secondAttribute="bottom" id="EYP-jP-XOa"/>
                             <constraint firstItem="Kgr-7R-jj7" firstAttribute="top" secondItem="hbE-e8-RVI" secondAttribute="bottom" id="ILg-Of-iBy"/>
